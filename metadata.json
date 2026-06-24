@@ -1,0 +1,6 @@
+{
+  "name": "Óticas Grandvision São Luís",
+  "description": "Site institucional e portfólio interativo de óculos e serviços para a Óticas Grandvision by Fototica em São Luís.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
